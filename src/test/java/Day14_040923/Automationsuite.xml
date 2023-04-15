@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="End to End Test" preserve-order="true">
+        <classes>
+            <class name="Day13_040823.T2_Staple_Logger" />
+            <class name="Day14_040923.T2_GoogleSearch_Logger" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
