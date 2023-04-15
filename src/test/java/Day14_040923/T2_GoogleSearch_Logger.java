@@ -26,4 +26,4 @@ public class T2_GoogleSearch_Logger extends ReusableAnnotation {
         System.out.println("Search number for cricket: " + arrayResult[1]);
         logger.log(LogStatus.INFO,"Search number for cricket: " + arrayResult[1]);
     }//end of test 2
-}
+}//hello
