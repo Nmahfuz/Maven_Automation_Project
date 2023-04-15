@@ -3,6 +3,5 @@ public class TestClass {
 
     }//end of main
 }//end of class
-//just another example comment
 
 
